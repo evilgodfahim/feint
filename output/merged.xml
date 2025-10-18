@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Oct 2025 04:16:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Oct 2025 04:38:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian Kurdish forces reach agreement with Damascus to merge with national army, commander says]]></title>
+<link>https://apnews.com/article/syria-kurds-sdf-mazloum-abdi-army-merger-alsharaa-8de0ee121b7a475fbbc27cbe46784f32</link>
+<pubDate>Fri, 17 Oct 2025 12:40:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UK police face pressure to reverse ban on Israeli soccer fans at Birmingham match]]></title>
 <link>https://apnews.com/article/maccabi-tel-aviv-aston-villa-fan-ban-95b6618944a36b2a8ab88766935be694</link>
@@ -11,9 +17,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hannibal Gadhafi, son of late Libyan leader, ordered released in Lebanon if he pays $11 million bail]]></title>
-<link>https://apnews.com/article/lebanon-libya-gadhafi-son-ce5bd35df20c173eaca73620d8f5cc28</link>
-<pubDate>Fri, 17 Oct 2025 14:08:55 -0000</pubDate>
+<title><![CDATA[UK sees lessons from Northern Ireland that could aid the fragile Gaza ceasefire process]]></title>
+<link>https://apnews.com/article/gaza-northern-ireland-peace-process-4d767d8ebdc0e9ae4b59ccceef60c8f3</link>
+<pubDate>Sat, 18 Oct 2025 04:21:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -26,12 +32,6 @@
 <title><![CDATA[Russia convicts 15 captured Ukrainian soldiers on terrorism charges]]></title>
 <link>https://apnews.com/article/russia-ukraine-war-aidar-trial-pow-258459f79277eb7853b1a351e6d0476c</link>
 <pubDate>Fri, 17 Oct 2025 12:10:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russians and Ukrainians expect no major breakthrough at planned Trump-Putin summit]]></title>
-<link>https://apnews.com/article/russia-ukraine-war-trump-putin-summit-7a8cca6ce4d79958713b97098d0efeb7</link>
-<pubDate>Fri, 17 Oct 2025 15:37:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Deadly floods in Mexico another sign of need for improved severe weather warnings]]></title>
+<link>https://apnews.com/article/mexico-flooding-severe-weather-climate-change-b2b37cbfb1d22dd782976a6c392ecf91</link>
+<pubDate>Sat, 18 Oct 2025 04:06:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[After years of socialist rule, Bolivia’s presidential runoff tests how far and fast it veers right]]></title>
 <link>https://apnews.com/article/bolivia-election-mas-morales-quiroga-paz-lara-fa7210ec752368a0f02767813481f86c</link>
 <pubDate>Fri, 17 Oct 2025 06:02:44 -0000</pubDate>
@@ -62,12 +68,6 @@
 <title><![CDATA[US and UN sanction former Haitian security head, gang leader for aiding gang coalition]]></title>
 <link>https://apnews.com/article/haiti-viv-ansanm-us-sanctions-moise-b673d80b1ea8eb165731c6bdeb086b63</link>
 <pubDate>Sat, 18 Oct 2025 01:53:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[News stories show that reporters may have left the Pentagon, but they haven’t stopped working]]></title>
-<link>https://apnews.com/article/pentagon-press-access-media-hegseth-defense-ca0ef1b86a9ed9f02b84a3ceb11ff29b</link>
-<pubDate>Fri, 17 Oct 2025 22:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +107,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘No Kings’ protests return as Trump ramps up authoritarian practices, organizers say]]></title>
-<link>https://apnews.com/article/no-kings-protests-trump-immigration-first-amendment-f04e7a4728c10b694f540bcef0646370</link>
-<pubDate>Fri, 17 Oct 2025 09:55:12 -0000</pubDate>
+<title><![CDATA[News stories show that reporters may have left the Pentagon, but they haven’t stopped working]]></title>
+<link>https://apnews.com/article/pentagon-press-access-media-hegseth-defense-ca0ef1b86a9ed9f02b84a3ceb11ff29b</link>
+<pubDate>Fri, 17 Oct 2025 22:57:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arizona executes a man for killing 4 members of a family in Phoenix in 1993]]></title>
-<link>https://apnews.com/article/arizona-execution-richard-djerf-e114307be54c00d0532b8855e8064444</link>
-<pubDate>Sat, 18 Oct 2025 01:23:13 -0000</pubDate>
+<title><![CDATA[‘No Kings’ protests return as Trump ramps up authoritarian practices, organizers say]]></title>
+<link>https://apnews.com/article/no-kings-protests-trump-immigration-first-amendment-f04e7a4728c10b694f540bcef0646370</link>
+<pubDate>Fri, 17 Oct 2025 09:55:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -404,12 +404,6 @@
 <title><![CDATA[Egypt raises fuel prices for the second time this year]]></title>
 <link>https://apnews.com/article/egypt-fuel-prices-economy-inflation-diesel-gas-e001493d45c58389cbbe82899a37d74f</link>
 <pubDate>Fri, 17 Oct 2025 11:15:20 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian Kurdish forces reach agreement with Damascus to merge with national army, commander says]]></title>
-<link>https://apnews.com/article/syria-kurds-sdf-mazloum-abdi-army-merger-alsharaa-8de0ee121b7a475fbbc27cbe46784f32</link>
-<pubDate>Thu, 16 Oct 2025 19:44:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
