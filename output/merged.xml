@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Oct 2025 17:09:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Oct 2025 17:34:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Portuguese parliament approves bill banning face coverings in publicq]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/portuguese-parliament-approves-bill-banning-face-coverings-in-publicq</link>
@@ -190,6 +190,13 @@ Members of the ministerial-level Development Committee that advises the Wo]]></d
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan and Afghanistan hold peace talks in Doha after fierce clashes]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/pakistan-and-afghanistan-hold-peace-talks-in-doha-after-fierce-clashes</link>
+<pubDate>Sat, 18 Oct 2025 17:21:02 -0000</pubDate>
+<description><![CDATA[Afghanistan and Pakistan were holding peace talks in Doha on Saturday, both sides said, after the South Asia neighbours extended a ceasefire following a week of fierce border clashes.
+They are seeking to find a way forward after the clashes killed dozens and wounded hundreds in the worst violence]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan, Pakistan to hold peace talks in Doha]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/afghanistan-pakistan-to-hold-peace-talks-in-doha</link>
 <pubDate>Sat, 18 Oct 2025 09:28:48 -0000</pubDate>
@@ -264,12 +271,5 @@ The epicentre, with a depth of 59.3 km, was initially determined to be at 8.92 d
 <pubDate>Sun, 12 Oct 2025 06:59:42 -0000</pubDate>
 <description><![CDATA[Afghan security forces attacked Pakistani border posts late Saturday in response to what the Taliban government called repeated violations of its territory and airspace, underscoring deepening security tensions between the neighbors.
 Earlier in the week, Afghan authorities accused Pakistan of bomb]]></description>
-</item>
-<item>
-<title><![CDATA[ASEAN to discuss Myanmar election observers at October summit]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/asean-to-discuss-myanmar-election-observers-at-october-summit</link>
-<pubDate>Sat, 11 Oct 2025 11:32:01 -0000</pubDate>
-<description><![CDATA[Myanmar's junta has invited the Association of Southeast Asian Nations (ASEAN) to send observers for planned year-end elections, and the bloc will discuss the request during a regional summit later this month, Malaysia's foreign ministry has said.
-The invitation to send election observers was exte]]></description>
 </item>
 </channel></rss>
