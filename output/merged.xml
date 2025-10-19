@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Oct 2025 11:09:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 11:34:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Portuguese parliament approves bill banning face coverings in publicq]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/portuguese-parliament-approves-bill-banning-face-coverings-in-publicq</link>
@@ -162,6 +162,13 @@ Sebastien Lecornu, France's fifth prime minister in t]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korean soldier defects to South Korea]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/north-korean-soldier-defects-to-south-korea</link>
+<pubDate>Sun, 19 Oct 2025 11:34:45 -0000</pubDate>
+<description><![CDATA[A North Korean soldier defected to South Korea by crossing the heavily fortified Demilitarized Zone between the two countries on Sunday, the South's military said in a statement.
+The soldier was taken into custody by South Korean guards who had been monitoring his movements, the military said, say]]></description>
+</item>
+<item>
 <title><![CDATA[Japan's LDP, Ishin agree to form coalition government, Kyodo says]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/japans-ldp-ishin-agree-to-form-coalition-government-kyodo-says</link>
 <pubDate>Sun, 19 Oct 2025 06:44:27 -0000</pubDate>
@@ -235,13 +242,5 @@ Afghan troops opened fire on Pakistani border posts late Saturday, with the coun
 <pubDate>Sun, 12 Oct 2025 10:58:12 -0000</pubDate>
 <description><![CDATA[Tens of thousands of people joined a pro-Palestinian rally in the business district of Australia's most populous city, Sydney, on Sunday, organisers said, after a court this week blocked a move to hold the protest at the Sydney Opera House.
 Around 27 protests took place across Australia on Sunday,]]></description>
-</item>
-<item>
-<title><![CDATA[Earthquake strikes Philippines again]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/earthquake-strikes-philippines-again</link>
-<pubDate>Sun, 12 Oct 2025 07:14:42 -0000</pubDate>
-<description><![CDATA[An earthquake with a magnitude of 6.0 jolted 10 km ENE of Aras-asan, Philippines at 14:32:58 GMT on Saturday, the US Geological Survey said.
-The epicentre, with a depth of 59.3 km, was initially determined to be at 8.92 degrees north latitude and 126.40 degrees east longitude, reports Xinhua.
-&nb]]></description>
 </item>
 </channel></rss>
