@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Dec 2025 05:15:27 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 06:21:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia's gold reserves hit historic high]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/russias-gold-reserves-hit-historic-high</link>
@@ -190,6 +190,13 @@ Johann Wadephul is scheduled to travel to China]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thailand launches air strikes at Cambodia]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/thailand-launches-air-strikes-at-cambodia</link>
+<pubDate>Mon, 08 Dec 2025 06:21:48 -0000</pubDate>
+<description><![CDATA[Thailand has launched air strikes along its disputed border with Cambodia, the Thai military said on Monday, after both countries accused the other of breaching a ceasefire agreement brokered by US President Donald Trump.
+At least one Thai soldier has been killed, and four wounded in the fresh cla]]></description>
+</item>
+<item>
 <title><![CDATA[India's Goa state orders probe after nightclub fire kills 25]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/indias-goa-state-orders-probe-after-nightclub-fire-kills-25-26</link>
 <pubDate>Sun, 07 Dec 2025 14:10:55 -0000</pubDate>
@@ -265,12 +272,5 @@ The military has erected at least 10 portable bri]]></description>
 <pubDate>Fri, 05 Dec 2025 13:27:01 -0000</pubDate>
 <description><![CDATA[Pakistan has appointed Field Marshal Syed Asim Munir as the country’s first Chief of Defence Forces (CDF), further consolidating his authority at the top of the military hierarchy.
 President Asif Ali Zardari approved Prime Minister Shehbaz Sharif’s recommendation to name Munir both chi]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey told Russia, Ukraine to keep energy infrastructure out of war, minister says]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/turkey-told-russia-ukraine-to-keep-energy-infrastructure-out-of-war-minister-says</link>
-<pubDate>Fri, 05 Dec 2025 12:25:40 -0000</pubDate>
-<description><![CDATA[Turkey is telling Russia, Ukraine, and all other parties to keep energy infrastructure out of their conflict and wants energy flows to continue uninterrupted, Energy Minister Alparslan Bayraktar said after a series of attacks off Turkey's Black Sea coast.
-Ukraine, which is targeting Russia's oil e]]></description>
 </item>
 </channel></rss>
