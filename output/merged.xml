@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Dec 2025 05:16:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 06:21:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[EU members agree to cut emissions by 90% by 2040 from 1990 levels]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/eu-members-agree-to-cut-emissions-by-90-by-2040-from-1990-levels</link>
@@ -190,6 +190,13 @@ Reeves had appeared to pave the way for an income tax rate hike - which would ha
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thailand, Cambodia keep fighting across contested border]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/thailand-cambodia-keep-fighting-across-contested-border</link>
+<pubDate>Thu, 11 Dec 2025 06:21:14 -0000</pubDate>
+<description><![CDATA[Fighting between Thailand and Cambodia entered its fourth day on Thursday as both sides waited for a promised telephone call from US President Donald Trump, who says he believes he can again end the conflict between the two Southeast Asian nations.
+On Wednesday, clashes at more than a dozen locati]]></description>
+</item>
+<item>
 <title><![CDATA[Cambodia vows fierce fight against Thailand in their escalating border conflict]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/cambodia-vows-fierce-fight-against-thailand-in-their-escalating-border-conflict</link>
 <pubDate>Wed, 10 Dec 2025 08:18:21 -0000</pubDate>
@@ -265,12 +272,5 @@ Cyclone-induced floods and landslides last week devastated three provinces on In
 <pubDate>Sun, 07 Dec 2025 08:15:05 -0000</pubDate>
 <description><![CDATA[Indian authorities ordered an investigation and offered compensation to victims on Sunday after a fire ripped through a nightclub in the western state of Goa, killing 25.
 "I have ordered a magisterial inquiry into the entire incident to identify the cause and fix responsibility" for the fire in th]]></description>
-</item>
-<item>
-<title><![CDATA[India warns IndiGo of regulatory action]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/india-warns-indigo-of-regulatory-action</link>
-<pubDate>Tue, 09 Dec 2025 05:35:23 -0000</pubDate>
-<description><![CDATA[India's aviation watchdog on Saturday warned airline IndiGo of regulatory action after it cancelled thousands of flights over the last week, stranding passengers and forcing government action to limit a surge in airfares caused by the crisis.
-The country's biggest airline, IndiGo cancelled the fli]]></description>
 </item>
 </channel></rss>
