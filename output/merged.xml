@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 11:12:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 12:27:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia attacks two Ukrainian ports, Kyiv says]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/russia-attacks-two-ukrainian-ports-kyiv-says</link>
@@ -116,6 +116,12 @@ The demonstrations, which began in Tehran last month, have spread to all of]]></
 The Senate voted 52 to 47 on a procedura]]></description>
 </item>
 <item>
+<title><![CDATA[With tension high in Minnesota, border agent shoots two in Oregon traffic stop]]></title>
+<link>https://thefinancialexpress.com.bd/world/america/with-tension-high-in-minnesota-border-agent-shoots-two-in-oregon-traffic-stop</link>
+<pubDate>Fri, 09 Jan 2026 12:27:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Senate to vote on reining in Trump on Venezuela]]></title>
 <link>https://thefinancialexpress.com.bd/world/america/us-senate-to-vote-on-reining-in-trump-on-venezuela</link>
 <pubDate>Thu, 08 Jan 2026 12:27:55 -0000</pubDate>
@@ -182,10 +188,11 @@ The Senate voted 52 to 47 on a procedura]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US imposes 1pc tax on cash and money order remittances]]></title>
-<link>https://thefinancialexpress.com.bd/world/america/us-imposes-1pc-tax-on-cash-and-money-order-remittances</link>
-<pubDate>Fri, 02 Jan 2026 16:15:29 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Iran cuts internet as Supreme Leader warns protesters]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/iran-cuts-internet-as-supreme-leader-warns-protesters</link>
+<pubDate>Fri, 09 Jan 2026 12:27:05 -0000</pubDate>
+<description><![CDATA[Iran was largely cut off from the outside world on Friday after authorities blacked out the internet to curb expanding protests, with phone calls not reaching the country, flights cancelled and online Iranian news sites only intermittently updating.
+Supreme Leader Ayatollah Ali Khamenei accused pr]]></description>
 </item>
 <item>
 <title><![CDATA[One dead, 38 missing after garbage mound collapses in Philippines]]></title>
@@ -263,12 +270,5 @@ The election is the first since a 2021 coup and is taking place during a civil w
 <pubDate>Tue, 30 Dec 2025 06:20:45 -0000</pubDate>
 <description><![CDATA[When India overtook China as the world's largest producer of rice this year, the country's politicians and agriculture lobby marked the moment by praising resilient farmers and innovative government policy.
 India has nearly doubled the amount of rice it exported over the past decade, with shipment]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas confirms death of spokesman of its military wing]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/hamas-confirms-death-of-spokesman-of-its-military-wing</link>
-<pubDate>Mon, 29 Dec 2025 18:19:48 -0000</pubDate>
-<description><![CDATA[Hamas' armed wing, the Al-Qassam Brigades, announced on Monday that its military spokesperson Abu Obeida had been killed during the Israeli offensive on the Gaza Strip.
-The announcement was made by a newly-appointed spokesperson, who assumed the same nom de guerre, Abu Obeida, during a televised p]]></description>
 </item>
 </channel></rss>
