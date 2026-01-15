@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 15 Jan 2026 12:27:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 13:34:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Lebanon signs gas exploration deal with international consortium]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/lebanon-signs-gas-exploration-deal-with-international-consortium-amid-economic-crisis</link>
@@ -188,6 +188,13 @@ The US and UK are both reducing the number of personnel at the Al-Udeid air base
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Trump-backed Palestinian who wants to push Gaza's rubble into the sea]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/the-trump-backed-palestinian-who-wants-to-push-gazas-rubble-into-the-sea</link>
+<pubDate>Thu, 15 Jan 2026 13:34:09 -0000</pubDate>
+<description><![CDATA[Ali Shaath, the Palestinian former government official chosen to administer Gaza under a US-backed deal, has an ambitious plan that includes pushing war debris into the Mediterranean Sea and rebuilding destroyed infrastructure within three years.
+The appointment of the civil engineer and former de]]></description>
+</item>
+<item>
 <title><![CDATA[Iran’s currency crash hits Iraq's pilgrimage industry]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/irans-currency-crash-hits-iraqs-pilgrimage-industry</link>
 <pubDate>Wed, 14 Jan 2026 15:17:28 -0000</pubDate>
@@ -266,12 +273,5 @@ The conflicting statements highlight a split in the STC, a group backed by the U
 <pubDate>Sat, 10 Jan 2026 12:22:51 -0000</pubDate>
 <description><![CDATA[He has been in exile for nearly 50 years. His father, Iran’s shah, was so widely hated that millions took to the streets in 1979, forcing him from power. Nevertheless, Iran’s Crown Prince Reza Pahlavi is trying to position himself as a player in his country’s future.
 Pahlavi succ]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan nears $1.5bn deal to supply weapons, jets to Sudan]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/pakistan-nears-15bn-deal-to-supply-weapons-jets-to-sudan-sources-say</link>
-<pubDate>Fri, 09 Jan 2026 13:32:37 -0000</pubDate>
-<description><![CDATA[Pakistan is in the final phases of striking a $1.5-billion deal to supply weapons and jets to Sudan, a former top air force official and three sources said, promising a major boost for Sudan's army, battling the paramilitary Rapid Support Forces.
-Their conflict has stoked the world's worst humanit]]></description>
 </item>
 </channel></rss>
