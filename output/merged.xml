@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Feb 2026 12:28:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 13:37:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russian comedian jailed nearly six years over war veteran joke]]></title>
 <link>https://thefinancialexpress.com.bd/world/europe/russian-comedian-jailed-nearly-six-years-over-war-veteran-joke</link>
@@ -189,6 +189,13 @@ The joint statement, released Friday, came after US President Donald Trump annou
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump map shows entire Kashmir as part of India]]></title>
+<link>https://thefinancialexpress.com.bd/world/asia/trump-map-shows-entire-kashmir-as-part-of-india</link>
+<pubDate>Sat, 07 Feb 2026 13:37:18 -0000</pubDate>
+<description><![CDATA[The Donald Trump administration has released a map showing the entire region of Kashmir as part of India, marking a major shift from previous US maps that excluded Pakistan-administered Kashmir.
+The graphic, shared by the Office of the United States Trade Representative (USTR) on X, while announci]]></description>
+</item>
+<item>
 <title><![CDATA[Saif al-Islam Gaddafi, son of late Libyan leader, has been killed, sources say]]></title>
 <link>https://thefinancialexpress.com.bd/world/asia/saif-al-islam-gaddafi-son-of-late-libyan-leader-has-been-killed-sources-say</link>
 <pubDate>Wed, 04 Feb 2026 05:41:08 -0000</pubDate>
@@ -265,12 +272,5 @@ Afghanistan's humanitarian situation is deterior]]></description>
 <pubDate>Thu, 29 Jan 2026 12:35:44 -0000</pubDate>
 <description><![CDATA[The Calcutta High Court has directed the West Bengal government to allocate land to the Border Security Force (BSF) for the construction of barbed-wire fencing along the Bangladesh border.
 The order, issued on Tuesday, requires the state to hand over land in nine border districts by Mar 31, accord]]></description>
-</item>
-<item>
-<title><![CDATA[Over 70000 flee northwestern Pakistan over fears of military operation]]></title>
-<link>https://thefinancialexpress.com.bd/world/asia/over-70000-flee-northwestern-pakistan-over-fears-of-military-operation</link>
-<pubDate>Wed, 28 Jan 2026 06:24:08 -0000</pubDate>
-<description><![CDATA[More than 70,000 people, mostly women and children, have fled a remote region in northwestern Pakistan bordering Afghanistan over uncertainty of a military operation against the Pakistani Taliban, residents and officials said Tuesday.
-Pakistan's Defense Minister Khawaja Mohammad Asif has denied th]]></description>
 </item>
 </channel></rss>
